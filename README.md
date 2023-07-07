@@ -1,5 +1,15 @@
 # Steam-Modern-Design
+
+
  
+
+<img width="500" alt="cover1" src="https://github.com/yahyaakfaifi/Steam-Modern-Design/assets/37663399/4630cf76-9507-41c1-a60a-da98bc07af46">
+<img width="500" alt="cover1" src="https://github.com/yahyaakfaifi/Steam-Modern-Design/assets/37663399/d4681029-7429-47a6-98c4-25d2dc94bfd8">
+
+
+
+
+
 This is a redesign for the Steam platform using Next.js
 integrated with RAWG API for games database
 
@@ -10,9 +20,9 @@ because it's a free plan, and you limited to 20,000 requests per month
 
 I hope you like it, and looking forward to your feedback.
 
-For sure, in the future will add new features and pages to be completely real project that can use it not for the concept.
+For sure, in the future will add new features and pages to be completely real project that can use it not for the concept, also will make it responsive, but now it just works on table and desktop view.
 
-so stay tuned, and don't forget to take a look at my blog from this link https://pundit.dev/
+So stay tuned, and don't forget to take a look at my blog from this link https://pundit.dev/
 
 Peace ✌️
 
