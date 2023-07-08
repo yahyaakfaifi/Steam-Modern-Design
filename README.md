@@ -23,6 +23,7 @@ I hope you like it, and looking forward to your feedback.
 For sure, in the future will add new features and pages to be completely real project that can use it not for the concept, also will make it responsive, but now it just works on table and desktop view.
 
 So stay tuned, and don't forget to take a look at my blog from this link https://pundit.dev/
+Also, you can see the app live from here https://steam-app.pundit.dev/
 
 Peace ✌️
 
