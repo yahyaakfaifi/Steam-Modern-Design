@@ -21,7 +21,7 @@ type Game = {
 
 const getGames = async (): Promise<Game[]> => {
     const res = await fetch(
-      "https://api.rawg.io/api/games?key=76f242a57aca4e81a9339b3c663b05ee&dates=2023-01-01,2023-07-01"
+      "https://api.rawg.io/api/games?key=76f242a57aca4e81a9339b3c663b05ee&dates=2023-01-01,2023-07-01&page_size=6"
     );
     if (!res.ok) {
         throw new Error(" stfu")
