@@ -23,9 +23,11 @@ type Game = {
 
 
 let getGames = async (): Promise<Game[]> => {
-    const res = await fetch('https://api.rawg.io/api/games?key=76f242a57aca4e81a9339b3c663b05ee&dates=2022-01-01,2023-07-01&page_size=6')
+    const res = await fetch('https://api.rawg.io/api/games?key=6e1cfdbe48d049fb8d90e19129cb9912&dates=2022-01-01,2023-07-01&page_size=6',
+    { mode:'no-cors' }
+    )
     if (!res.ok) {
-        throw new Error("stfu")
+        throw new Error("Error fetching")
     }
     const data = await res.json()
     return data.results
